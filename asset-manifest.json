@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.79a112ae.css",
-    "main.js": "./static/js/main.23d1fa68.js",
+    "main.css": "./static/css/main.3d643dcd.css",
+    "main.js": "./static/js/main.b0b650dd.js",
     "static/media/game05.gif": "./static/media/game05.37fa8499d99a8b9a8597.gif",
     "static/media/game3menu.gif": "./static/media/game3menu.712627ce809b7df48855.gif",
     "static/media/game03.gif": "./static/media/game03.c0fb11e142f37fa38a99.gif",
@@ -12,11 +12,11 @@
     "static/media/game04.gif": "./static/media/game04.bb1c549d13eafd738199.gif",
     "static/media/dice-cup.png": "./static/media/dice-cup.7751137e75930380606c.png",
     "index.html": "./index.html",
-    "main.79a112ae.css.map": "./static/css/main.79a112ae.css.map",
-    "main.23d1fa68.js.map": "./static/js/main.23d1fa68.js.map"
+    "main.3d643dcd.css.map": "./static/css/main.3d643dcd.css.map",
+    "main.b0b650dd.js.map": "./static/js/main.b0b650dd.js.map"
   },
   "entrypoints": [
-    "static/css/main.79a112ae.css",
-    "static/js/main.23d1fa68.js"
+    "static/css/main.3d643dcd.css",
+    "static/js/main.b0b650dd.js"
   ]
 }
