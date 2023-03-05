@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.79a112ae.css",
+    "main.js": "./static/js/main.23d1fa68.js",
+    "static/media/game05.gif": "./static/media/game05.37fa8499d99a8b9a8597.gif",
+    "static/media/game3menu.gif": "./static/media/game3menu.712627ce809b7df48855.gif",
+    "static/media/game03.gif": "./static/media/game03.c0fb11e142f37fa38a99.gif",
+    "static/media/fortnite-dance5.gif": "./static/media/fortnite-dance5.a6272035510486d65419.gif",
+    "static/media/game01.gif": "./static/media/game01.bbff383b05f807a976ed.gif",
+    "static/media/game02.gif": "./static/media/game02.ca1df23970ab6e0f594d.gif",
+    "static/media/confused-math.gif": "./static/media/confused-math.00193d0891fdf6bc8338.gif",
+    "static/media/game04.gif": "./static/media/game04.bb1c549d13eafd738199.gif",
+    "static/media/dice-cup.png": "./static/media/dice-cup.7751137e75930380606c.png",
+    "index.html": "./index.html",
+    "main.79a112ae.css.map": "./static/css/main.79a112ae.css.map",
+    "main.23d1fa68.js.map": "./static/js/main.23d1fa68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79a112ae.css",
+    "static/js/main.23d1fa68.js"
+  ]
+}
